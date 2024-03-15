@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="205" src="[https://github.com/arunavasantra/arunavasantra/blob/main/Assets/new.png]"  />
+  <img height="205" src="[https://github.com/arunavasantra/arunavasantra/blob/main/Assets/eat-_-sleep-_-code-_.png]"  />
 </div>
 
 ###
