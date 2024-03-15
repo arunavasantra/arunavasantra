@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bioinformatician sharing about my journey and learning in tech<br>Studied Biotechnology at the University of KIIT, India<br>Currently learning about data analytics !
+Bioinformatician sharing about my journey and learning in tech<br>Studied Biotechnology at the University of KIIT, India<br>Currently learning about data analytics | NGS !
 
 
 ## 🌐 Socials:
