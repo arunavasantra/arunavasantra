@@ -1,14 +1,14 @@
-<p align="center">Hello World!!</p>
+<h1 align="center">Hello World!!</h1>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/arunavasantra/arunavasantra/blob/main/Assets/eat-_-sleep-_-code-_.png"  />
+  <img height="205" src="https://github.com/arunavasantra/arunavasantra/blob/main/Assets/eat-_-sleep-_-code-_.png"  />
 </div>
 
 ###
 
-<p align="left">Hello , I'm Arunava<br>Bioinformatician sharing about my journey and learning in tech<br>Studied Biotechnology at the University of KIIT, India<br>Currently learning about data analytics | NGS !<br>I love coding !</p>
+<h4 align="left">Hello , I'm Arunava<br>Bioinformatician sharing about my journey and learning in tech<br>Studied Biotechnology at the University of KIIT, India<br>Currently learning about data analytics | NGS !<br>I love coding !</h4>
 
 ###
 
